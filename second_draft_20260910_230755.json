@@ -1,0 +1,335 @@
+{
+  "original_transcription": "prompt_transcription.txt",
+  "hits_json": "top3_matches_20260910_225051.json",
+  "canonical_cast_file": "canonical_cast.json",
+  "canonical_cast_names": [
+    "Amanda",
+    "Casey",
+    "Rachel",
+    "Jaime",
+    "Lincoln1",
+    "ZEKE",
+    "CHARLIE",
+    "DESI"
+  ],
+  "timestamp": "20260910_230755",
+  "drafts": [
+    {
+      "title": "Time Travel Conundrums",
+      "themes_used": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_used": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "beat_plan": [
+        "I contemplate the complexity of time travel",
+        "Wednesday agrees, but questions the implications",
+        "I defend the idea of simplifying projects",
+        "Wednesday expresses doubt about losing depth",
+        "I concede, but emphasize the potential of AI",
+        "We discuss the dramatic tension in Charlie Manson's story"
+      ],
+      "draft": "The dimly lit room is filled with the hum of contemplation. The air is thick with the weight of historical events and moral dilemmas. The walls echo with the whispers of time.",
+      "dialogue": [
+        {
+          "character": "I",
+          "line": "Even though I often think of that one as three seasons, too.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "I",
+          "line": "I mean, it might end up being an AI version anyway, so it probably will be.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "I",
+          "line": "I think Act 1 is Civil War. Act 2 is Jesus. Act 3 is the Holocaust.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "I",
+          "line": "The warden is doing one challenge to Manson and then Polanski would be another chimera in the time space continuum.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "Wednesday",
+          "line": "And I think the real dramatic tension is whether or not Charlie could get himself out of the mess where maybe he got framed for Tate Lobbiana.",
+          "cast_type": "canonical"
+        }
+      ],
+      "visiting_characters": [],
+      "canonical_characters": [
+        "I",
+        "Wednesday"
+      ],
+      "rank": 1,
+      "source_file": "git-aichive/2025_10_12_14_52_57_transcription.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "characters_detected": [],
+      "visiting_from_source": [
+        {
+          "name": "I",
+          "kind": "speaker",
+          "evidence": "I'm thinking about Wednesday.",
+          "confidence": 1.0
+        },
+        {
+          "name": "WEDNESDAY",
+          "kind": "addressee",
+          "evidence": "Wednesday, Project 22.",
+          "confidence": 1.0
+        }
+      ],
+      "dialogue_count": 5,
+      "speaker_count": 2,
+      "worst_speaker_run": 4,
+      "validation_issues": [
+        "only 5 lines (need 8+)"
+      ],
+      "dropped_lines": [
+        {
+          "character": "I",
+          "reason": "contains quotation marks",
+          "line": "In that one that could usually amount to three seasons. It's hard to imagine tha"
+        },
+        {
+          "character": "Wednesday",
+          "reason": "contains quotation marks",
+          "line": "Wednesday, Project 22. I'd like to see that one as 90 minutes as well."
+        },
+        {
+          "character": "Wednesday",
+          "reason": "contains quotation marks",
+          "line": "I'm starting to think I just want to do them all as 90 minutes, just some versio"
+        },
+        {
+          "character": "Wednesday",
+          "reason": "contains quotation marks",
+          "line": "But Thursday, pretty much likewise. Let's try a 90 minute version."
+        },
+        {
+          "character": "Wednesday",
+          "reason": "contains quotation marks",
+          "line": "Charlie Manson traveling through time. And there's an overarching battle that he"
+        },
+        {
+          "character": "I",
+          "reason": "contains quotation marks",
+          "line": "Where Manson, I'm sorry, Polanski is framing Charlie Manson."
+        }
+      ],
+      "retried": false,
+      "quality_ok": false
+    },
+    {
+      "title": "Wednesday's Wish",
+      "themes_used": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_used": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "beat_plan": [
+        "Rachel suggests simplifying projects",
+        "Amanda dismisses the idea",
+        "Casey agrees with Amanda",
+        "Jaime expresses interest",
+        "Lincoln1 proposes a unified timeline",
+        "ZEKE (Charlie Manson) arrives and interrupts",
+        "Amanda recognizes ZEKE"
+      ],
+      "draft": "The room buzzes with tension as the group debates the length of their projects.",
+      "dialogue": [
+        {
+          "character": "Jaime",
+          "line": "But it would make things easier, right?",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "Amanda",
+          "line": "Charlie Manson? Is that you?",
+          "cast_type": "canonical"
+        }
+      ],
+      "retried": true,
+      "visiting_characters": [],
+      "canonical_characters": [
+        "Amanda",
+        "Jaime"
+      ],
+      "rank": 2,
+      "source_file": "git-aichive/2025_10_12_14_52_57_transcription_1.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "characters_detected": [],
+      "visiting_from_source": [
+        {
+          "name": "I",
+          "kind": "speaker",
+          "evidence": "I'm thinking about Wednesday.",
+          "confidence": 1.0
+        }
+      ],
+      "dialogue_count": 2,
+      "speaker_count": 2,
+      "worst_speaker_run": 1,
+      "validation_issues": [
+        "only 2 lines (need 8+)"
+      ],
+      "dropped_lines": [
+        {
+          "character": "Rachel",
+          "reason": "contains quotation marks",
+          "line": "Let's try a 90-minute version for all of them."
+        },
+        {
+          "character": "Amanda",
+          "reason": "contains quotation marks",
+          "line": "I don't think that's possible. Each one has its own story."
+        },
+        {
+          "character": "Casey",
+          "reason": "contains quotation marks",
+          "line": "Agreed. They're too complex to condense."
+        },
+        {
+          "character": "Lincoln1",
+          "reason": "contains quotation marks",
+          "line": "Yeah, let's just keep it simple."
+        }
+      ],
+      "quality_ok": false
+    },
+    {
+      "title": "Empty Store Reflections",
+      "themes_used": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_used": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "beat_plan": [
+        "I consider the unlocked door and the potential danger",
+        "Casey questions my motives for such a risky venture",
+        "I try to justify my decision",
+        "Amanda points out the legal and practical risks",
+        "Rachel suggests the historical impact of such actions",
+        "I reflect on the consequences of my actions",
+        "Lincoln offers a cynical perspective",
+        "I consider the moral implications of my actions"
+      ],
+      "draft": "The empty 99 cent store was a quiet, desolate space, its walls lined with shelves of cheap goods. I stood there, the door wide open, a moment of vulnerability in a world of constant surveillance.",
+      "dialogue": [
+        {
+          "character": "Casey",
+          "line": "Set? More like a trap, bro.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "I",
+          "line": "Not necessarily. The store seemed deserted.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "Amanda",
+          "line": "And you just waltz in? That’s a bit too convenient, don’t you think?",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "Rachel",
+          "line": "Think about the historical impact, I mean, Jews and time travel?",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "Lincoln1",
+          "line": "Curiosity killed the cat, and you’re not a cat, dick.",
+          "cast_type": "canonical"
+        },
+        {
+          "character": "I",
+          "line": "But what if I could change something, you know? Make things better?",
+          "cast_type": "canonical"
+        }
+      ],
+      "retried": true,
+      "visiting_characters": [],
+      "canonical_characters": [
+        "Amanda",
+        "Casey",
+        "I",
+        "Lincoln1",
+        "Rachel"
+      ],
+      "rank": 3,
+      "source_file": "git-aichive/2025_12_07_11_15_26_transcription.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequences",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "characters_detected": [],
+      "visiting_from_source": [
+        {
+          "name": "I",
+          "kind": "speaker",
+          "evidence": "I walked into that empty 99 cent store one time.",
+          "confidence": 1.0
+        }
+      ],
+      "dialogue_count": 6,
+      "speaker_count": 5,
+      "worst_speaker_run": 1,
+      "validation_issues": [
+        "only 6 lines (need 8+)"
+      ],
+      "dropped_lines": [
+        {
+          "character": "I",
+          "reason": "contains quotation marks",
+          "line": "The door was unlocked, and I thought, oh there's a set."
+        },
+        {
+          "character": "I",
+          "reason": "contains quotation marks",
+          "line": "I didn't think that far ahead. I was just curious."
+        }
+      ],
+      "quality_ok": false
+    }
+  ]
+}
